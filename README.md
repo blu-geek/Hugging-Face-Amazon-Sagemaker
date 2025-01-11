@@ -1,6 +1,4 @@
 
-# Project 3
-
 # Deploying the Falcon LLM in Hugging Face via Amazon Sagemaker Jumpstart for NLP Workloads
 
 
